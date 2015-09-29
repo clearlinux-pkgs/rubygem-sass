@@ -4,7 +4,7 @@
 #
 Name     : rubygem-sass
 Version  : 3.4.16
-Release  : 6
+Release  : 7
 URL      : https://rubygems.org/downloads/sass-3.4.16.gem
 Source0  : https://rubygems.org/downloads/sass-3.4.16.gem
 Summary  : No detailed summary available
